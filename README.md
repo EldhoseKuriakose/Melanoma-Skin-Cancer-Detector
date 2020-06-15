@@ -9,8 +9,8 @@ Melanoma is a threatening skin cancer which prevails in nowadays. So this is a p
 ###### Types of users
 
 1. `Admin` - Has the the privilage to train the system and generate the result.
-    -Username - admin
-    -Password - admin
+    - Username - admin
+    - Password - admin
 2. `users` - Can check the image with system to identify whether it contains melanoma or not.
-    -Can sign in after creating an account
+    - Can sign in after creating an account
 
