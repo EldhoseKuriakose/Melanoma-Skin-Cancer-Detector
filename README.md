@@ -6,7 +6,7 @@ Melanoma is a threatening skin cancer which prevails in nowadays. So this is a p
 2. Open the terminal in the project location
 3. `To run the program` python index.py
 
-###### Types of users
+##### Types of users
 
 1. `Admin` - Has the the privilage to train the system and generate the result.
     - Username - admin
@@ -15,3 +15,7 @@ Melanoma is a threatening skin cancer which prevails in nowadays. So this is a p
     - Can sign in after creating an account
 
 The accuracy of the system can be increased by training the system with more different melanoma and non melanoma images.
+
+###### Technologies used
+
+Python, TKinter, keras, tensorflow
