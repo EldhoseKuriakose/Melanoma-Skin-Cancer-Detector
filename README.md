@@ -18,4 +18,4 @@ The accuracy of the system can be increased by training the system with more dif
 
 ###### Technologies used
 
-Python, TKinter, keras, tensorflow
+Python, Tkinter, keras, tensorflow
