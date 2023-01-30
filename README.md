@@ -1,4 +1,4 @@
-# Melanoma-Skin-Cancer-Detector
+# M - Detect
 
 Melanoma is a threatening skin cancer which prevails in nowadays. So this is a python based application to detect melanoma early using scanning and testing the images of lesion parts with the system. CNN architecture is created and trained with melanoma and non melanoma images. Then system predicts whether the test image contains melanoma or not by comparing features with the trained set.
 
